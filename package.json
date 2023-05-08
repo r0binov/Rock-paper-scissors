@@ -23,7 +23,7 @@
     },
     "author": "r0binov (Robin Päll)",
     "dependencies": {
-        "core-js": "^3.26.0",
+        "core-js": "^3.30.2",
         "pixi-spine": "^3.0.16",
         "pixi.js": "^6.5.8",
         "regenerator-runtime": "^0.13.10",
