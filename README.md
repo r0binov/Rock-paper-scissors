@@ -1,3 +1,5 @@
+This was a test-assignment for Ballys.
+
 ## Commands:
 
 -   `npm run build` - starts build procedure
